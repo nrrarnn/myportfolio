@@ -1,11 +1,6 @@
 // Navbar fixed
 
-window.onscroll = function () {
-  const header = document.querySelector("header");
-  const fixedNav = header.offsetTop;
-  const toTop = document.querySelector("#to-top");
 
-};
 
 // Hamburger
 
